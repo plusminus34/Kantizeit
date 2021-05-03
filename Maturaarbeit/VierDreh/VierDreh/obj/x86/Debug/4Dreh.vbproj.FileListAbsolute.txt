@@ -1,0 +1,14 @@
+C:\Users\linus\Documents\Visual Studio 2010\Projects\Rotation_A\Rotation_A\obj\x86\Debug\Rotation_A.exe
+C:\Users\linus\Documents\Visual Studio 2010\Projects\Rotation_A\Rotation_A\obj\x86\Debug\Rotation_A.xml
+C:\Users\linus\Documents\Visual Studio 2010\Projects\Rotation_A\Rotation_A\obj\x86\Debug\Rotation_A.pdb
+C:\Users\linus\Documents\Visual Studio 2010\Projects\Rotation_A\Rotation_A\bin\Debug\Rotation_A.exe
+C:\Users\linus\Documents\Visual Studio 2010\Projects\Rotation_A\Rotation_A\bin\Debug\Rotation_A.pdb
+C:\Users\linus\Documents\Visual Studio 2010\Projects\Rotation_A\Rotation_A\bin\Debug\Rotation_A.xml
+C:\Users\linus\Documents\Visual Studio 2010\Projects\Rotation_A\Rotation_A\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\linus\Documents\Visual Studio 2010\Projects\Rotation_A\Rotation_A\obj\x86\Debug\WindowsApplication1.VierDreh.resources
+C:\Users\linus\Documents\Visual Studio 2010\Projects\Rotation_A\Rotation_A\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\linus\Documents\Visual Studio 2010\Projects\Rotation_A\Rotation_A\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\linus\Documents\Visual Studio 2010\Projects\Rotation_A\Rotation_A\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\linus\Documents\Visual Studio 2010\Projects\4Dreh\4Dreh\obj\x86\Debug\Rotation_A.exe
+C:\Users\linus\Documents\Visual Studio 2010\Projects\4Dreh\4Dreh\obj\x86\Debug\Rotation_A.xml
+C:\Users\linus\Documents\Visual Studio 2010\Projects\4Dreh\4Dreh\obj\x86\Debug\Rotation_A.pdb
